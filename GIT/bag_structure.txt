@@ -1,0 +1,9 @@
+Title
+Project
+Version
+Status
+Author
+Steps to reproduce
+Actual result
+Expected result
+Severity
